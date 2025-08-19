@@ -2,19 +2,6 @@
 
 This project contains a machine learning model to predict the risk of liver disease based on patient data. It includes a Jupyter Notebook for the complete data analysis and model training process, and a desktop application for making real-time predictions.
 
-## Project Structure
-
-```
-├── .ipynb_checkpoints
-│   └── liver_disease_risk_prediction-checkpoint.ipynb
-├── data/
-│   └── Indian Liver Patient Dataset (ILPD).csv
-├── app.py
-├── liver_disease_rf_model.pkl
-├── liver_disease_risk_prediction.ipynb 
-└── requirements.txt
-```
-
 ## Getting Started
 
 Follow these steps to set up and run the project on your local machine.
